@@ -16,7 +16,7 @@ Right now, we are focusing on building the **core AI pipeline** and **basic back
 ## 🛠️ Tech Stack
 - **Backend Frameworks:** Spring Boot, FastAPI  
 - **Computer Vision:** SAM (Segment Anything Model), OpenCLIP  
-- **NLP:** FACC for handling fashion-related queries  
+- **NLP:** FAISS for handling fashion-related queries  
 
 ---
 
